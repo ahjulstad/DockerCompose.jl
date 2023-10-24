@@ -1,0 +1,11 @@
+name = "DockerCompose"
+uuid = "175809c1-39f2-4540-8d4f-ff11181c116d"
+authors = ["Åsmund Hjulstad <ahju@equinor.com>"]
+version = "0.1.0"
+
+[deps]
+DBInterface = "a10d1c49-ce27-4219-8d33-6db1a4562965"
+FunSQL = "cf6cc811-59f4-4a10-b258-a8547a8f6407"
+ODBC = "be6f12e9-ca4f-5eb2-a339-a4f995cc0291"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+XKPasswd = "e2037ae6-bb74-4572-8c36-c2a187e31162"
